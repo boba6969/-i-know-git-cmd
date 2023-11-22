@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJSrKTWxppg7Dcg1c8o8JI2+L2S3zp1xzO430c6K17g/ andrej.taranenko.2019@bk.ru
